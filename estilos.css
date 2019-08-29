@@ -1,0 +1,25 @@
+     .img.thumbnail {
+         width: 100px;
+         height: 70px;
+     }
+     
+     .h8 {
+         text-align: center;
+     }
+     
+     .menu {
+         margin: 0 20px 0 20px;
+         background-color: rgb(64, 56, 116);
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: flex-end;
+     }
+     
+     #footer {
+         background-color: rgb(64, 56, 116);
+         text-align: center;
+     }
+     
+     body {
+         background-color: rgb(191, 183, 230);
+     }
